@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/VGtiXN/Countryside gas station/DemoScenes/Desert style demo/Demo.unity
+- path: "Assets/\u52A0\u6CB9\u7AD9/Countryside gas station/DemoScenes/Desert style
+    demo/Demo.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
